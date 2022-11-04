@@ -10,5 +10,6 @@ int main( int argc, char **argv )
 {
     Foo foo();
     system("pause");
+    
     return 0;
 }
